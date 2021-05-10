@@ -148,7 +148,8 @@ var refactorTester3 = "IAmACodingMaster"
                 return `${str} is not a string`;
             } else {
                 return `Some crazy stuff happened!`;
-            } 
+            }
+            
             return noVowels;
         }
         console.log(removeVowels(refactorTester1));
